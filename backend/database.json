@@ -1,0 +1,82 @@
+{
+    "wiwi": {
+        "password": "123",
+        "recipes": {
+            "Nasi goreng": {
+                "name": "Nasi goreng",
+                "description": "yes",
+                "cuisine": "Indonesian",
+                "course": "Lunch",
+                "difficulty": "easy",
+                "ingredients": [
+                    "2.0 medium unit(s) of Egg "
+                ],
+                "instructions": [
+                    "Heat up oil (2m 0s)"
+                ]
+            }
+        }
+    },
+    "wawa": {
+        "password": "456",
+        "recipes": {
+            "French Toast": {
+                "name": "French Toast",
+                "cuisine": "Western",
+                "course": "Breakfast",
+                "difficulty": "Medium",
+                "ingredients": [
+                    "Bread",
+                    "Milk",
+                    "Egg"
+                ],
+                "instructions": [
+                    "Dip bread in milk and egg.",
+                    "Fry in butter."
+                ]
+            }
+        }
+    },
+    "sin": {
+        "password": "hai",
+        "recipes": {}
+    },
+    "sirjude": {
+        "password": "123",
+        "recipes": {
+            "boiled egg": {
+                "name": "boiled egg",
+                "description": "wa",
+                "cuisine": "Other",
+                "course": "Breakfast",
+                "difficulty": "easy",
+                "ingredients": [
+                    "5.0 medium unit(s) of Egg "
+                ],
+                "instructions": [
+                    "Put the egg in water",
+                    "Heat it up for 1 hour (60m 0s)"
+                ]
+            }
+        }
+    },
+    "hyxin": {
+        "password": "yes",
+        "recipes": {
+            "Sweet hot tea": {
+                "name": "Sweet hot tea",
+                "description": "h",
+                "cuisine": "N/A",
+                "course": "All",
+                "difficulty": "N/A",
+                "ingredients": [
+                    "2.0 tsp sugar"
+                ],
+                "instructions": [
+                    "bro",
+                    "YESHH (1m 0s)"
+                ]
+            }
+        }
+    }
+}
